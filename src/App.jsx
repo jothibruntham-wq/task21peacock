@@ -1,12 +1,9 @@
-import React from "react";
+import React from "react"
 import BirdScene from "./components/BirdScene";
 
 function App() {
-
-  return(
-
-    <BirdScene/>
+  return (
+  <BirdScene/>
   );
 }
-
 export default App;

@@ -7,4 +7,5 @@ export default defineConfig({
     // three.js + react-three-fiber are large, so raise the warning threshold (in kB)
     chunkSizeWarningLimit: 1500,
   },
+  base: "/task21peacock/",
 });
