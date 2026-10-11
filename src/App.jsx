@@ -1,8 +1,12 @@
-import React from 'react';
-import Home from './components/Home';
+import React from "react";
+import BirdScene from "./components/BirdScene";
 
 function App() {
-  return <Home />;
+
+  return(
+
+    <BirdScene/>
+  );
 }
 
 export default App;
