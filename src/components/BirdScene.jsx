@@ -332,8 +332,7 @@ export default function BirdScene() {
             font: "13px/1.4 system-ui, sans-serif",
           }}
         >
-          Model not found at <b>{MODEL_URL}</b>. Showing a placeholder bird. Put your .glb in the
-          <b> public</b> folder and reload.
+        
         </div>
       )}
     </div>
